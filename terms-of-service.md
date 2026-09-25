@@ -1,221 +1,208 @@
-# Termini e Condizioni di Servizio (Terms of Service)
-## Bot Discord "Leggenda Stargonauta"
+# Termini di Servizio
+## Bot Discord "Leggenda Stargonauta" e Gestionale Stargonauti
 
-**Ultimo aggiornamento:** 9 Dicembre 2025  
-**Versione:** 2.0
-
----
-
-## 1. Definizioni
-
-Ai fini dei presenti Termini e Condizioni di Servizio (di seguito "Termini"), si intende per:
-
-- **"Bot"**: il software denominato "Leggenda Stargonauta" operante sulla piattaforma Discord
-- **"Titolare"**: il proprietario e sviluppatore esclusivo del Bot
-- **"Utente"**: qualsiasi persona fisica che interagisce con il Bot
-- **"Servizio"**: l'insieme delle funzionalità offerte dal Bot
-- **"Server Autorizzati"**: esclusivamente i server Discord della community Stargonauti espressamente autorizzati dal Titolare
+**Ultimo aggiornamento: 24 settembre 2026**
 
 ---
 
-## 2. Accettazione dei Termini
+## Art. 1 — Parti e definizioni
 
-L'utilizzo del Bot comporta l'accettazione integrale e incondizionata dei presenti Termini.
+1.1 I presenti Termini di Servizio (i "Termini") regolano l'utilizzo del bot Discord "Leggenda Stargonauta" (il "Bot") e del pannello web "Gestionale Stargonauti" (il "Gestionale"), sviluppato, detenuto e gestito dal suo sviluppatore, Founder della community Stargonauti (il "Titolare"), contattabile all'indirizzo **stargonauti@gmail.com**.
 
-L'Utente che non intenda accettare i presenti Termini è tenuto ad astenersi dall'utilizzo del Bot.
-
-Il Titolare si riserva il diritto di modificare i presenti Termini in qualsiasi momento. Le modifiche saranno comunicate attraverso i canali ufficiali della community Stargonauti e avranno efficacia dalla data di pubblicazione.
-
----
-
-## 3. Proprietà Intellettuale
-
-### 3.1 Diritti Esclusivi
-
-Il Bot, comprensivo di:
-- Codice sorgente
-- Algoritmi e logiche di funzionamento
-- Interfacce e design
-- Documentazione tecnica
-- Nome e marchi associati
-
-è di **proprietà esclusiva** del Titolare ed è protetto dalle leggi italiane e internazionali in materia di proprietà intellettuale, inclusi ma non limitati a:
-- Legge 22 aprile 1941, n. 633 (Legge sul Diritto d'Autore)
-- Direttiva 2009/24/CE (tutela giuridica dei programmi per elaboratore)
-- Convenzione di Berna per la protezione delle opere letterarie e artistiche
-
-### 3.2 Divieti Assoluti
-
-È espressamente e tassativamente vietato:
-
-1. **Riproduzione**: copiare, duplicare o riprodurre il Bot in tutto o in parte
-2. **Modifica**: alterare, modificare, tradurre o creare opere derivate
-3. **Distribuzione**: distribuire, pubblicare, concedere in licenza o sublicenza il Bot
-4. **Reverse Engineering**: decompilare, disassemblare o tentare di estrarre il codice sorgente
-5. **Utilizzo non autorizzato**: invitare o utilizzare il Bot su server non autorizzati
-6. **Sfruttamento commerciale**: utilizzare il Bot per finalità commerciali o di lucro
-
-### 3.3 Nessuna Licenza Concessa
-
-I presenti Termini **NON** concedono all'Utente alcun diritto, titolo o interesse sul Bot, ad eccezione del limitato diritto di utilizzo nei Server Autorizzati come espressamente previsto dal presente documento.
+1.2 Ai fini dei presenti Termini:
+- **"Server"**: il server Discord della community "Stargonauti", unico ambiente in cui il Bot è installato e opera;
+- **"Utente"**: qualsiasi persona che interagisce con il Bot all'interno del Server;
+- **"Staff"**: gli Utenti a cui il Titolare ha assegnato il ruolo di staff, di Community Manager o permessi di gestione del Server;
+- **"Ticket"**: il canale privato creato dal Bot per una richiesta di adesione ("Ticket di ingresso") o per una segnalazione, un bug report o una richiesta allo Staff ("Ticket di supporto");
+- **"Informativa Privacy"**: l'informativa sul trattamento dei dati personali del Bot, pubblicata al medesimo indirizzo dei presenti Termini.
 
 ---
 
-## 4. Condizioni di Utilizzo
+## Art. 2 — Natura del Bot e del Gestionale
 
-### 4.1 Utilizzo Esclusivo e Supervisionato
+2.1 Il Bot è un'applicazione **privata e non commerciale**, realizzata esclusivamente per la gestione interna del Server. Non è distribuito al pubblico, non è elencato in directory pubbliche di applicazioni e non può essere aggiunto ad altri server.
 
-Il Bot è destinato all'utilizzo **esclusivamente**:
-- All'interno dei Server Autorizzati della community Stargonauti
-- Sotto la **diretta supervisione e autorizzazione** del Titolare
-- Per le finalità previste e approvate dal Titolare
+2.2 Il Bot è operato **esclusivamente dal Titolare**, che ne controlla l'esecuzione, la configurazione e l'attivazione e può in qualsiasi momento avviarlo, sospenderlo o disattivarlo a propria discrezione.
 
-### 4.2 Utenti Autorizzati
+2.3 Il Bot è fornito **gratuitamente**. Non sono previste funzionalità a pagamento.
 
-Possono utilizzare il Bot esclusivamente:
-- I membri dei Server Autorizzati
-- Gli utenti espressamente autorizzati dal Titolare
-- Nel rispetto delle regole della community Stargonauti
+2.4 Il Gestionale è un pannello web privato, accessibile esclusivamente allo Staff autorizzato e al Titolare tramite login Discord. Agli Utenti che non fanno parte dello Staff non è consentito accedervi né tentare di accedervi.
 
-### 4.3 Obblighi dell'Utente
-
-L'Utente si impegna a:
-- Utilizzare il Bot in conformità ai presenti Termini
-- Rispettare i Termini di Servizio di Discord
-- Non tentare di abusare, sfruttare o manipolare il Bot
-- Non interferire con il normale funzionamento del Bot
-- Non tentare di estrarre dati dal Bot
-- Segnalare tempestivamente eventuali malfunzionamenti o vulnerabilità
-
-### 4.4 Divieti per l'Utente
-
-È vietato:
-- Utilizzare il Bot per attività illegali
-- Utilizzare il Bot per spam, molestie o comportamenti abusivi
-- Tentare di sovraccaricare o danneggiare il Bot
-- Condividere l'accesso al Bot con terzi non autorizzati
-- Aggirare eventuali limitazioni o restrizioni imposte dal Titolare
+2.5 Il Bot e il Gestionale sono strumenti indipendenti e non sono affiliati, sponsorizzati o approvati da Discord Inc.
 
 ---
 
-## 5. Controllo e Supervisione
+## Art. 3 — Accettazione
 
-### 5.1 Pieno Controllo del Titolare
+3.1 Interagendo con il Bot (a titolo esemplificativo: premendo un pulsante, aprendo un Ticket, lasciando un feedback, utilizzando un comando) l'Utente dichiara di aver letto e di accettare i presenti Termini e di aver preso visione dell'Informativa Privacy.
 
-Il Titolare mantiene il **pieno e insindacabile controllo** su:
-- L'attivazione e disattivazione del Bot
-- I Server in cui il Bot può operare
-- Le funzionalità disponibili
-- Gli utenti autorizzati all'utilizzo
-- I tempi e le modalità di funzionamento
+3.2 L'utilizzo del Bot presuppone il rispetto dei **Termini di Servizio**, delle **Linee guida della community** di Discord e delle regole del Server. In caso di contrasto, i termini di Discord prevalgono sui presenti Termini.
 
-### 5.2 Diritto di Monitoraggio
-
-Il Titolare si riserva il diritto di monitorare l'utilizzo del Bot per:
-- Verificare il rispetto dei presenti Termini
-- Garantire il corretto funzionamento del servizio
-- Prevenire utilizzi abusivi o non autorizzati
-
-### 5.3 Sospensione e Terminazione
-
-Il Titolare può, a propria esclusiva discrezione e **senza obbligo di preavviso o giustificazione**:
-- Sospendere temporaneamente il servizio
-- Interrompere definitivamente il servizio
-- Bloccare l'accesso di singoli utenti
-- Rimuovere il Bot da qualsiasi server
-- Modificare o eliminare funzionalità
+3.3 L'Utente dichiara di aver compiuto almeno **14 anni** e di soddisfare l'età minima richiesta da Discord nel proprio Paese.
 
 ---
 
-## 6. Esclusione di Garanzie
+## Art. 4 — Funzionalità
 
-### 6.1 Servizio "Così Com'è"
+4.1 Il Bot offre, a titolo non esaustivo, le seguenti funzionalità:
 
-Il Bot viene fornito **"così com'è" (as is)** e **"come disponibile" (as available)**, senza garanzie di alcun tipo, espresse o implicite.
+a) **Accoglienza e verifica**: messaggio di benvenuto ai nuovi Utenti con pulsante di accesso; riassegnazione automatica del ruolo di membro agli Utenti già registrati;
 
-### 6.2 Esclusioni Specifiche
+b) **Ticket di ingresso**: apertura di un canale privato per la richiesta di adesione alla community, con domande di presentazione; lo Staff risponde e decide tramite il Gestionale (approvazione o rifiuto, con nota o motivo facoltativi comunicati all'Utente tramite messaggio privato); alla chiusura la conversazione viene archiviata nel Gestionale;
 
-Il Titolare **NON** garantisce:
-- La disponibilità continua o ininterrotta del servizio
-- L'assenza di errori, bug o malfunzionamenti
-- L'idoneità del Bot per scopi specifici
-- La compatibilità con tutti i dispositivi o configurazioni
-- Il raggiungimento di risultati specifici
+c) **Registro membri**: pubblicazione di schede con ruolo, data di ingresso, anzianità, tempo in vocale e numero di messaggi;
 
----
+d) **Statistiche e podio vocale**: conteggio automatico dei messaggi inviati e del tempo trascorso nei canali vocali, classifica settimanale e assegnazione settimanale di ruoli temporanei ai tre membri con più tempo in vocale;
 
-## 7. Limitazione di Responsabilità
+e) **Canali vocali temporanei**: creazione di un canale vocale personale all'ingresso nel canale designato, rinominabile e con limite di utenti impostabile da chi lo ha creato, eliminato automaticamente quando si svuota;
 
-### 7.1 Esclusione di Responsabilità
+f) **Ticket di supporto**: apertura di Ticket di tipo "Segnalazione", "Bug Report" o "Staff" tramite i pulsanti del canale di supporto; archiviazione della trascrizione alla chiusura;
 
-Nei limiti consentiti dalla legge applicabile, il Titolare **NON** sarà responsabile per:
-- Danni diretti, indiretti, incidentali, speciali o consequenziali
-- Perdita di dati, profitti o opportunità
-- Interruzioni del servizio
-- Azioni di terze parti
-- Problemi derivanti dalla piattaforma Discord
-- Qualsiasi altra conseguenza derivante dall'uso o dall'impossibilità di uso del Bot
+g) **Feedback**: valutazione facoltativa da 1 a 5 stelle, con commento facoltativo, dell'assistenza ricevuta in un Ticket di supporto;
 
-### 7.2 Manleva
+h) **Comandi amministrativi** riservati allo Staff per la gestione del registro membri e della configurazione del Bot;
 
-L'Utente si impegna a manlevare e tenere indenne il Titolare da qualsiasi pretesa, danno, responsabilità, costo o spesa (incluse le spese legali) derivanti da:
-- Violazione dei presenti Termini da parte dell'Utente
-- Utilizzo del Bot da parte dell'Utente
-- Violazione di diritti di terzi da parte dell'Utente
+i) **Gestionale**: pannello riservato allo Staff per consultare l'elenco dei membri, annotare stati e note interne, gestire ruoli, inviare messaggi, espellere utenti, rispondere ai ticket di ingresso e consultare l'archivio delle candidature e il registro delle azioni dello Staff.
+
+4.2 Il Titolare può aggiungere, modificare o rimuovere funzionalità in qualsiasi momento, senza preavviso. Le modifiche che incidono sul trattamento dei dati personali saranno riportate nell'Informativa Privacy.
 
 ---
 
-## 8. Violazione dei Termini
+## Art. 5 — Regole di utilizzo dei Ticket
 
-In caso di violazione dei presenti Termini, il Titolare si riserva il diritto di:
-- Bloccare immediatamente l'accesso dell'Utente al Bot
-- Segnalare l'Utente ai moderatori della community
-- Segnalare l'Utente a Discord per violazione dei ToS
-- Intraprendere azioni legali a tutela dei propri diritti
-- Richiedere il risarcimento dei danni subiti
+5.1 Ciascun Utente può avere **un solo Ticket di supporto aperto** alla volta e un solo Ticket di ingresso alla volta.
 
----
+5.2 I Ticket di supporto possono essere **chiusi esclusivamente dallo Staff**. Il feedback può essere lasciato **esclusivamente dall'Utente che ha aperto il Ticket**.
 
-## 9. Disposizioni Generali
+5.3 Alla chiusura di un Ticket di supporto il canale viene bloccato in scrittura e il suo contenuto viene **trascritto e archiviato** come descritto nell'Informativa Privacy. Aprendo un Ticket di supporto, l'Utente prende atto di tale archiviazione.
 
-### 9.1 Intero Accordo
+5.4 È vietato:
+- aprire Ticket falsi, pretestuosi, ripetitivi o a scopo di disturbo;
+- presentare segnalazioni consapevolmente false o diffamatorie nei confronti di altri Utenti;
+- inserire nei Ticket contenuti illeciti, offensivi, discriminatori o in violazione dei diritti di terzi;
+- inserire dati personali di terzi non necessari alla segnalazione;
+- utilizzare il sistema di feedback per insultare o molestare lo Staff.
 
-I presenti Termini costituiscono l'intero accordo tra l'Utente e il Titolare in relazione all'utilizzo del Bot e sostituiscono qualsiasi precedente accordo o intesa, scritta o verbale.
-
-### 9.2 Nullità Parziale
-
-Qualora una o più disposizioni dei presenti Termini risultassero nulle o inefficaci, le restanti disposizioni rimarranno pienamente valide ed efficaci.
-
-### 9.3 Rinuncia
-
-Il mancato esercizio da parte del Titolare di un diritto previsto dai presenti Termini non costituisce rinuncia a tale diritto.
+5.5 Lo Staff che accede ai Ticket è tenuto alla **riservatezza** sul loro contenuto e può utilizzarlo esclusivamente per la gestione della community.
 
 ---
 
-## 10. Legge Applicabile e Foro Competente
+## Art. 5-bis — Statistiche e podio vocale
 
-I presenti Termini sono regolati dalla **legge italiana**.
+5-bis.1 Le statistiche di attività e i ruoli del podio vocale hanno valore esclusivamente simbolico all'interno della community. Non hanno valore economico e non attribuiscono alcun diritto.
 
-Per qualsiasi controversia relativa all'interpretazione, validità o esecuzione dei presenti Termini sarà competente in via esclusiva il **Foro del luogo di residenza del Titolare**.
+5-bis.2 È vietato gonfiare artificialmente le proprie statistiche, ad esempio con messaggi ripetitivi o privi di senso, account multipli, permanenza in vocale senza partecipazione reale o strumenti automatizzati.
 
----
+5-bis.3 Lo Staff può correggere o azzerare le statistiche in caso di violazione del presente articolo. Il Titolare può modificare in qualsiasi momento il funzionamento delle statistiche e del podio.
 
-## 11. Contatti
-
-Per qualsiasi comunicazione relativa ai presenti Termini, l'Utente può contattare il Titolare attraverso:
-- Server Discord ufficiale della community Stargonauti
+5-bis.4 Il membro che non desidera che la propria attività venga conteggiata o pubblicata può opporsi secondo quanto previsto dall'Informativa Privacy.
 
 ---
 
-## 12. Dichiarazione di Accettazione
+## Art. 5-ter — Obblighi dello Staff nel Gestionale
 
-**Utilizzando il Bot "Leggenda Stargonauta", l'Utente dichiara:**
+5-ter.1 Lo Staff utilizza il Gestionale esclusivamente per la gestione della community, nel rispetto delle regole del Server, dei Termini di Discord e dell'Informativa Privacy.
 
-1. Di aver letto, compreso e accettato integralmente i presenti Termini e Condizioni di Servizio
-2. Di aver letto, compreso e accettato la Privacy Policy del Bot
-3. Di essere maggiorenne o, se minorenne, di aver ottenuto il consenso dei genitori/tutori
-4. Di impegnarsi a rispettare tutte le disposizioni contenute nei presenti Termini
+5-ter.2 Le note interne devono essere pertinenti e rispettose. È vietato annotare dati relativi a salute, orientamento sessuale, opinioni politiche, convinzioni religiose, origine etnica o reati, e più in generale dati non necessari alla gestione della community.
+
+5-ter.3 I messaggi privati inviati dal Gestionale devono riguardare la community e non possono essere usati per pubblicità, spam o comunicazioni non richieste ripetute.
+
+5-ter.4 È vietato comunicare a terzi o copiare fuori dal Gestionale i contenuti delle candidature, delle note e del registro delle azioni. Ogni azione compiuta nel Gestionale è registrata con il nome di chi la compie.
+
+5-ter.5 Il Titolare può revocare in qualsiasi momento l'accesso al Gestionale.
 
 ---
 
-*I presenti Termini e Condizioni di Servizio sono redatti in conformità alla normativa italiana e alle best practices internazionali per i servizi digitali.*
+## Art. 6 — Condotte vietate
+
+6.1 È vietato all'Utente, anche tramite terzi:
+- tentare di accedere al codice sorgente, ai file, al database o al computer che esegue il Bot, o di accedere al Gestionale senza autorizzazione;
+- decompilare, disassemblare o sottoporre a reverse engineering il Bot, salvo nei limiti inderogabili previsti dalla legge;
+- sfruttare errori, vulnerabilità o comportamenti imprevisti del Bot anziché segnalarli tramite un Ticket "Bug Report";
+- sovraccaricare intenzionalmente il Bot con interazioni ripetute o automatizzate;
+- impersonare lo Staff o il Titolare nei confronti del Bot o di altri Utenti;
+- utilizzare il Bot in violazione dei Termini di Discord o della legge.
+
+---
+
+## Art. 7 — Proprietà intellettuale
+
+7.1 Il Bot e il Gestionale, il loro codice sorgente e oggetto, la struttura del database, i testi, i messaggi, la grafica, i nomi e ogni altro elemento che lo compone sono di **proprietà esclusiva del Titolare** e sono tutelati dalla Legge 22 aprile 1941, n. 633 (in particolare artt. 64-bis e ss. in materia di programmi per elaboratore) e dalla Direttiva 2009/24/CE relativa alla tutela giuridica dei programmi per elaboratore.
+
+7.2 Il codice del Bot e del Gestionale **non è open source**. Nessuna licenza d'uso, copia, modifica, distribuzione o sfruttamento è concessa all'Utente, all'infuori della mera interazione con il Bot all'interno del Server secondo i presenti Termini.
+
+7.3 È vietata la riproduzione, anche parziale, del Bot o del Gestionale o la creazione di applicazioni derivate o sostanzialmente simili senza autorizzazione scritta del Titolare.
+
+7.4 I contenuti scritti dagli Utenti nei Ticket restano degli Utenti. L'Utente concede al Titolare il diritto di conservarli e trattarli nei limiti necessari al funzionamento del Bot e secondo l'Informativa Privacy.
+
+7.5 Suggerimenti e feedback forniti dagli Utenti possono essere utilizzati liberamente dal Titolare per migliorare il Bot e il Server, senza obbligo di compenso.
+
+---
+
+## Art. 8 — Disponibilità ed esclusione di garanzie
+
+8.1 Il Bot è fornito **"così com'è" e "come disponibile"**. Il Titolare non garantisce che il Bot sia sempre disponibile, privo di errori o compatibile con ogni aggiornamento di Discord.
+
+8.2 Il funzionamento del Bot e del Gestionale dipende da servizi di terzi (tra cui Discord e Netlify). Il Titolare non risponde di interruzioni, malfunzionamenti o perdite di dati imputabili a tali servizi.
+
+8.3 Il Bot può essere sospeso o disattivato in qualsiasi momento, anche per manutenzione, aggiornamenti o ragioni di sicurezza.
+
+---
+
+## Art. 9 — Limitazione di responsabilità
+
+9.1 Nei limiti consentiti dalla legge, il Titolare non è responsabile per danni diretti o indiretti derivanti dall'uso o dall'impossibilità di usare il Bot, né per le decisioni dello Staff o per i contenuti inseriti dagli Utenti.
+
+9.2 Resta ferma la responsabilità del Titolare per dolo o colpa grave, ai sensi dell'art. 1229 del Codice Civile, nonché ogni altra responsabilità che non possa essere esclusa per legge.
+
+9.3 L'Utente è responsabile dei contenuti che inserisce nei Ticket e nei feedback e si impegna a tenere indenne il Titolare da pretese di terzi derivanti dalla violazione dei presenti Termini o dei diritti di terzi.
+
+---
+
+## Art. 10 — Sospensione ed esclusione
+
+10.1 In caso di violazione dei presenti Termini, delle regole del Server o dei Termini di Discord, lo Staff e il Titolare possono, a propria discrezione:
+- chiudere Ticket in corso;
+- rifiutare richieste di adesione;
+- limitare l'accesso dell'Utente alle funzionalità del Bot;
+- adottare i provvedimenti previsti dalle regole del Server.
+
+10.2 Il Titolare può revocare in qualsiasi momento l'accesso al Bot a qualsiasi Utente.
+
+---
+
+## Art. 11 — Segnalazioni e contatti
+
+11.1 Malfunzionamenti del Bot e violazioni dei presenti Termini o dei Termini di Discord possono essere segnalati tramite un Ticket "Bug Report" o "Segnalazione" nel Server, oppure all'indirizzo e-mail stargonauti@gmail.com. Il Titolare esamina le segnalazioni e adotta le misure opportune.
+
+11.2 Per le richieste relative ai dati personali si rinvia all'Informativa Privacy.
+
+---
+
+## Art. 12 — Modifiche ai Termini
+
+12.1 Il Titolare può modificare i presenti Termini in qualsiasi momento. La versione aggiornata è pubblicata al medesimo indirizzo con indicazione della data di ultimo aggiornamento e, in caso di modifiche sostanziali, comunicata nel Server.
+
+12.2 L'uso del Bot dopo la pubblicazione delle modifiche ne costituisce accettazione.
+
+---
+
+## Art. 13 — Legge applicabile e foro competente
+
+13.1 I presenti Termini sono regolati dalla **legge italiana**.
+
+13.2 Per ogni controversia è competente il foro individuato secondo le norme di legge, fatto salvo il foro inderogabile del consumatore nel luogo di residenza o domicilio di quest'ultimo, ove applicabile ai sensi del D.Lgs. 6 settembre 2005, n. 206 (Codice del Consumo).
+
+---
+
+## Art. 14 — Disposizioni finali
+
+14.1 L'eventuale invalidità o inefficacia di una clausola non pregiudica la validità delle restanti.
+
+14.2 Il mancato esercizio di un diritto da parte del Titolare non costituisce rinuncia allo stesso.
+
+14.3 I presenti Termini, insieme all'Informativa Privacy, costituiscono l'intero accordo tra il Titolare e l'Utente in merito all'utilizzo del Bot.
+
+---
+
+*© 2026 Stargonauti — Tutti i diritti riservati.*
